@@ -1,6 +1,6 @@
 import './App.css'
-import { AllTasks } from './components/allTasks'
-import { SelectedTasks } from './components/SelectedTasks'
+import { AllTasks } from './components/allTasks';
+import { SelectedTasks } from './components/selectedTasks';
 
 function App() {
   return (

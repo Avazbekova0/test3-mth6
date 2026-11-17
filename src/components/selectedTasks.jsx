@@ -1,6 +1,6 @@
 import { useSelectedStore } from '../store/useSelectedStore'
 
-export const selectedTasks = () => {
+export const SelectedTasks = () => {
   const selectedTasks = useSelectedStore(
     (state) => state.selectedTasks
   )
